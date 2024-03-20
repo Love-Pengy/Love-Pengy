@@ -1,10 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Love-Pengy&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Love-Pengy&theme=radical&border_radius=10)](https://git.io/streak-stats)"/></a>
-</p>
-
 <!---
 - 👋 Hi, I’m @Love-Pengy
 - 👀 I’m interested in ...
