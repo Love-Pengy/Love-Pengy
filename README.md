@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Love-Pengy&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
 
 
 <p align="center">
