@@ -1,8 +1,8 @@
 
 
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://streak-stats.demolab.com?user=Love-Pengy&theme=radical&border_radius=10)](https://git.io/streak-stats" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Love-Pengy&size_weight=0.5&count_weight=0.5&theme=radical" />
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
