@@ -2,9 +2,8 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=Love-Pengy&theme=radical&border_radius=10)](https://git.io/streak-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=Love-Pengy&size_weight=0.5&count_weight=0.5&theme=radical)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Love-Pengy&size_weight=0.5&count_weight=0.5&theme=radical" />
 </a>
-
 
 
 
