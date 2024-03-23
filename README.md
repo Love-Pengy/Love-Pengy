@@ -1,3 +1,10 @@
+<div class='container'>
+  <img style="height: auto; width: 55%;" class="img" src="https://streak-stats.demolab.com?user=Love-Pengy&theme=radical&border_radius=10)](https://git.io/streak-stats" />
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Love-Pengy&size_weight=0.5&count_weight=0.5&theme=radical" /></div>
+</div>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=Love-Pengy&theme=radical&border_radius=10)](https://git.io/streak-stats" />
 </a>
