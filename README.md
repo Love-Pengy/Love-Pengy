@@ -12,4 +12,4 @@
 
 ![Bee Reading](images/IMG_3603.gif)
 
-![Bee's GH Stats](https://github-readme-stats.vercel.app/api?username=Love-Pengy&bg_color=8081ae&title_color=dddffe&text_color=ddf7fc&ring_color=cbc3e7&show_icons=true&icon_color=c8e3f3)
+![Bee's GH Stats](https://github-readme-stats.vercel.app/api?username=Love-Pengy&bg_color=8081ae&title_color=dddffe&text_color=f9ffff&ring_color=&ddf7fc&show_icons=true&icon_color=c8e3f3)
