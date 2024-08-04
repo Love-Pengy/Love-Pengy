@@ -2,7 +2,7 @@
 
 `"Often we do not recall when we struggled"`
 
-### Hewoo~ I'm Brandon but I also go by Bee/Pengy/Love  
+### Hiya, I'm Brandon~
 
 🐝 I am going into my senior year of my bachelors in Computer Engineering and love programming in C~
 
