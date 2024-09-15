@@ -2,7 +2,7 @@
 
 ### Hiya, I'm Brandon~
 
-🐝 I am going into my senior year of my bachelors in Computer Engineering and love programming in C~
+🐝 I am in the senior year of my bachelors in Computer Engineering and love programming in C~
 
 🐝 I currently have a [youtube](https://youtube.com/@lovelytransposition?si=PNmCZkqGIJJX4uEc) channel where I post myself programming everyday until I graduate. If you know me from there hellooo <3~
 
