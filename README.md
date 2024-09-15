@@ -1,4 +1,4 @@
-`"Often we do not recall when we struggled"`
+`"Often we do not recall when we struggled" - Pops`
 
 ### Hiya, I'm Brandon~
 
