@@ -1,5 +1,3 @@
-# 💕Love-Pengy
-
 `"Often we do not recall when we struggled"`
 
 ### Hiya, I'm Brandon~
